@@ -1,5 +1,5 @@
 Meu Programa
-Este é um programa simples que faz X, Y e Z. Foi escrito em Python 3.9.1.
+Este é um programa simples que faz  WEB SCRAPING dos dados da COVID-19
 
 Bibliotecas Utilizadas
 O programa utiliza as seguintes bibliotecas Python:
@@ -10,16 +10,15 @@ python versão 3.9.12
 webdriver_manager (responsável por fazer o download do webdriver mais recente para o seu navegador)
 beautifulsoup versão 4.11.1
 
-Como Instalar
-No cmd do Anaconda, digite os seguintes códigos:
+Como Instalar no cmd do Anaconda, digite os seguintes códigos:
 
 
-Selenium:
+Biblioteca do Selenium:
 pip install selenium
 --upgrade selenium
 
-Webdriver:
+Biblioteca do Webdriver:
 pip install webdriver-manager
 
-BeautifulSoup:
+Biblioteca do BeautifulSoup:
 pip install beautifulsoup4
