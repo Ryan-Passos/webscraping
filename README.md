@@ -1,4 +1,5 @@
-Meu Programa
+Meu Programa:
+
 Este é um programa simples que faz  WEB SCRAPING dos dados da COVID-19
 
 Bibliotecas Utilizadas
